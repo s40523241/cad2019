@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>s40523241-CAD2019 - Misc</title><link href="https://s40523241.github.io/cad2019/blog/" rel="alternate"></link><link href="https://s40523241.github.io/cad2019/blog/feeds/misc.atom.xml" rel="self"></link><id>https://s40523241.github.io/cad2019/blog/</id><updated>2019-11-01T11:00:00+08:00</updated><entry><title>2019 Fall CAD 課程</title><link href="https://s40523241.github.io/cad2019/blog/2019-Fall-Win10-1101.html" rel="alternate"></link><published>2019-11-01T11:00:00+08:00</published><updated>2019-11-01T11:00:00+08:00</updated><author><name>40523241</name></author><id>tag:s40523241.github.io,2019-11-01:/cad2019/blog/2019-Fall-Win10-1101.html</id><summary type="html">&lt;p&gt;2019 Fall 一開始, 1903 版的 Windows 10 就大舉更新, 除了逐步去掉先前許多舊版的設定視窗, 也將系統的指令搜尋與 App 應用程式進行綁定. 許多採用可攜設定的程式執行流程, 隨著更新進程的推展, 必須因應修改才可以正常運作.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>s40523241-CAD2019 - Misc</title><link href="https://s40523241.github.io/cad2019/blog/" rel="alternate"></link><link href="https://s40523241.github.io/cad2019/blog/feeds/misc.atom.xml" rel="self"></link><id>https://s40523241.github.io/cad2019/blog/</id><updated>2019-11-08T11:00:00+08:00</updated><entry><title>2019 Fall CAD 期中報告</title><link href="https://s40523241.github.io/cad2019/blog/2019-Fall-Win10-1108.html" rel="alternate"></link><published>2019-11-08T11:00:00+08:00</published><updated>2019-11-08T11:00:00+08:00</updated><author><name>40523241</name></author><id>tag:s40523241.github.io,2019-11-08:/cad2019/blog/2019-Fall-Win10-1108.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;iframe width="986" height="534" src="https://www.youtube.com/embed/t_9RbkW6onc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;40523241 期中報告&lt;/p&gt;
+&lt;!-- for LaTeX equations --&gt;
+
+&lt;script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"&gt;&lt;/script&gt;
+
+&lt;/pre&gt;</content><category term="2019FallCP"></category></entry><entry><title>2019 Fall CAD 課程</title><link href="https://s40523241.github.io/cad2019/blog/2019-Fall-Win10-1101.html" rel="alternate"></link><published>2019-11-01T11:00:00+08:00</published><updated>2019-11-01T11:00:00+08:00</updated><author><name>40523241</name></author><id>tag:s40523241.github.io,2019-11-01:/cad2019/blog/2019-Fall-Win10-1101.html</id><summary type="html">&lt;p&gt;2019 Fall 一開始, 1903 版的 Windows 10 就大舉更新, 除了逐步去掉先前許多舊版的設定視窗, 也將系統的指令搜尋與 App 應用程式進行綁定. 許多採用可攜設定的程式執行流程, 隨著更新進程的推展, 必須因應修改才可以正常運作.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2019 Fall 一開始, 1903 版的 Windows 10 就大舉更新, 除了逐步去掉先前許多舊版的設定視窗, 也將系統的指令搜尋與 App 應用程式進行綁定. 許多採用可攜設定的程式執行流程, 隨著更新進程的推展, 必須因應修改才可以正常運作.&lt;/p&gt;
 
 
@@ -82,15 +91,6 @@ if PLAT_WIN
 &lt;/script&gt;
 
 &lt;!-- for LaTeX equations --&gt;
-&lt;script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"&gt;&lt;/script&gt;
-
-&lt;/pre&gt;</content><category term="2019FallCP"></category></entry><entry><title>2019 Fall CAD 期中報告</title><link href="https://s40523241.github.io/cad2019/blog/2019-Fall-Win10-1108.html" rel="alternate"></link><published>2019-11-01T11:00:00+08:00</published><updated>2019-11-01T11:00:00+08:00</updated><author><name>40523241</name></author><id>tag:s40523241.github.io,2019-11-01:/cad2019/blog/2019-Fall-Win10-1108.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;iframe width="986" height="534" src="https://www.youtube.com/embed/t_9RbkW6onc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;40523241 期中報告&lt;/p&gt;
-&lt;!-- for LaTeX equations --&gt;
-
 &lt;script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"&gt;&lt;/script&gt;
 
 &lt;/pre&gt;</content><category term="2019FallCP"></category></entry></feed>
