@@ -24,6 +24,9 @@
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200109153622.1"><vh>課程內容</vh>
+<v t="leo.20200109153622.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -323,5 +326,23 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200109153622.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109153622.2"># 課程內容
+
+* 創建github CAD2019的倉儲以及建立個人網頁
+
+* 編譯solvespace以及繪圖
+
+* 兩輪車 V-rep模擬 
+
+* 心得</t>
 </tnodes>
 </leo_file>
