@@ -27,6 +27,15 @@
 <v t="leo.20200109153622.1"><vh>課程內容</vh>
 <v t="leo.20200109153622.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200109201018.1"><vh>編譯</vh>
+<v t="leo.20200109201018.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200109201032.1"><vh>V-rep</vh>
+<v t="leo.20200109201032.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200109201033.1"><vh>心得</vh>
+<v t="leo.20200109201033.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -344,5 +353,40 @@ vertical: body pane on the botton</t>
 * 兩輪車 V-rep模擬 
 
 * 心得</t>
+<t tx="leo.20200109201018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109201018.2">### solvespace編譯
+
+&lt;iframe width="1280" height="693" src="https://www.youtube.com/embed/LkC23Usvkzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109201032.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109201032.2"># V-rep模擬
+
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/kdwOkw1l6xE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109201033.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109201033.2"># 心得
+</t>
 </tnodes>
 </leo_file>
