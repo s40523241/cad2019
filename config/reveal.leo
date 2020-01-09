@@ -388,6 +388,9 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200109201033.2"># 心得
+
+這學期學了很多繪圖的軟體，然後solvespace需要進行編譯，跟以往用solidwork不太一樣，也有建立一個自己的Blog，
+然後使用ffmpeg的指令，在影片中加入字幕，我的自評成績為60分。
 </t>
 <t tx="leo.20200109204954.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
